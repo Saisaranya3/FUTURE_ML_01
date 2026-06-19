@@ -46,4 +46,4 @@ The model successfully explains approximately 86.8% of the variation in sales da
 
 ## Author
 
-Saranya
+Sai Saranya
